@@ -1,6 +1,6 @@
 window._config = {
     cognito: {
-        userPoolId: 'https://github.com/aws-samples/aws-serverless-workshops.git',
+        userPoolId: 'us-west-2_z99yan9cZ',
         userPoolClientId: '7gtot9vhf756dvlga8vvm6drji',
         region: 'us-west-2' // e.g. us-east-2
     },
